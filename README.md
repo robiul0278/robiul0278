@@ -67,17 +67,21 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robiul0278&show_icons=true&theme=default&locale=en" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <a href="https://github.com/robiul0278">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=robiul0278&show_icons=true&theme=default&locale=en" height="180px" />
+  </a>
+  <a href="https://github.com/robiul0278">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robiul0278&theme=default" height="180px" />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robiul0278&theme=default" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <a href="https://github.com/robiul0278">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=robiul0278&layout=compact&theme=default" height="180px" />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=robiul0278&layout=compact&theme=default" alt="Top Languages" />
-</p>
 
 ---
 
