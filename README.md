@@ -96,24 +96,7 @@
 
 <br>
 
-## 🚀 Featured Projects
-
-**A Job Portal for Diploma Engineers**
-- MERN stack platform connecting diploma engineers with job opportunities
-
-**E-Commerce Web Application**
-- Full-featured MERN stack ecommerce platform with dashboards and secure authentication
-
-**A Static Agency Website**
-- Modern, SEO-optimized web platform dedicated to publishing verified content — built with Next.js, TypeScript, Redux
-
-**BUTA (বুটা)**
-- Handmade goods marketplace for Bangladeshi entrepreneurs — tiered commission structure, SSLCommerz integration, full RBAC architecture with 5 user roles
-
-**Norani Qaida Digital Reader**
-- Mobile app (Expo / React Native) with PDF processing pipeline (PyMuPDF), custom cover design, Arabic/Bengali font support
-
-<p align="center"><a href="https://dev-robiul.netlify.app">→ See all projects on my portfolio</a></p>
+<br>
 
 <br>
 
@@ -153,6 +136,36 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robiul0278&layout=compact&theme=tokyonight&hide_border=true" height="165px" />
 </div>
+
+<br>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=robiul0278&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
+<br>
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=robiul0278&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br>
+
+<p align="center"><em>Note: the snake animation needs a one-time setup via the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action on your repo to activate — happy to walk you through it.</em></p>
 
 <br>
 
